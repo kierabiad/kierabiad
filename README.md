@@ -32,10 +32,6 @@
 
 An ambitious and results-driven **Software Engineer** and **Full Stack Developer** dedicated to designing scalable enterprise web platforms, robust cloud-native systems, and intelligent automated solutions. Possessing a profound product engineering mindset focused on translating complex business workflows into high-efficiency architectural implementations. Leveraging a solid foundation in Computer Science to champion data integrity, containerized orchestration, and production-grade optimization across diverse development lifecycles.
 
-### 🎯 Open To
-* **Full-Time Software Engineering Roles** focused on backend infrastructure and system automation.
-* **AI Application Development & Full Stack Projects** demanding deep integration of modern architectures and intelligent data orchestration.
-* **Distributed Cloud Infrastructure Initiatives** utilizing modern Devops workflows.
 
 ---
 
@@ -83,125 +79,6 @@ An ambitious and results-driven **Software Engineer** and **Full Stack Developer
 
 ---
 
-<!-- 4. AI / ML EXPERTISE SECTION -->
-## 🧠 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Vector Databases & RAG** | Advanced | Multi-tenant log querying and indexing using Qdrant Vector DB for intelligent chatbot agents |
-| **Computer Vision**| Intermediate | Implementation of image matrix transforms and algorithmic extraction via OpenCV |
-| **Machine Learning Foundations**| Advanced | Diagnostic predictive modeling using TensorFlow, scikit-learn, and crop health algorithms |
-| **Data Orchestration**| Advanced | High-throughput analytical data manipulation using NumPy, Pandas, and Matplotlib pipelines |
-
----
-
-<!-- 5. FEATURED PROJECTS SECTION -->
-## 📂 Featured Projects
-
-<details>
-  <summary><b>🛠️ Slack-to-Google Chat Migration Tool (slack-chat-migrator)</b></summary>
-  <br>
-
-  ### Description
-  Engineered a production-ready, custom migration command-line utility designed to securely parse, extract, transform, and pipe legacy conversations, file attachments, and channel metadata from enterprise Slack workspaces directly into Google Chat spaces while ensuring strict structural formatting and zero data loss.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Slack Web API, Google Chat API, Git/GitHub |
-  | **Scale** | Enterprise-grade channel history processing with high metadata volumes |
-  | **Performance**| Asynchronous execution routines to handle massive structural formatting requirements |
-  | **Security** | Secure authentication handling and fully private data extraction protocols |
-  | **Impact** | Successfully secured critical workspace channels, maintaining total data integrity through cross-platform enterprise migration |
-  | **Repository** | [github.com/kierabiad/slack-chat-migrator](https://github.com/kierabiad) |
-
-  ### Professional Explanation
-  Developed during a core engineering assignment, this migration framework translates heterogeneous conversational formats into strict upstream destination endpoints. It includes comprehensive retry logic mechanisms for network resilience, parallel attachment streams, and permission maps to bridge directory variations seamlessly between enterprise collaboration architectures.
-</details>
-
-<details>
-  <summary><b>🤖 Automated AI Log Analysis Chatbot Agent</b></summary>
-  <br>
-
-  ### Description
-  Architected and containerized a fully local intelligent log processing chatbot designed to ingest multi-tenant operational data streams from Acuity and Zoho logs, transforming messy application logs into actionable knowledge maps through vectorized lookup.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Django, Python, Docker, Celery, Redis, Qdrant Vector DB, OpenRouter |
-  | **Scale** | High-throughput asynchronous parsing of bulky system log exports |
-  | **Performance**| Sub-second cognitive context retrievals using high-speed vector index searches |
-  | **Security** | Sandboxed local system deployment ensuring maximum security for infrastructure logs |
-  | **Impact** | Drastically decreased developer debugging latency through instant NLP-driven error analysis |
-  | **Repository** | [github.com/kierabiad/log-analysis-bot](https://github.com/kierabiad) |
-
-  ### Professional Explanation
-  This platform demonstrates the implementation of Retrieval-Augmented Generation (RAG) at scale. By background-processing bulk unstructured log transfers via Celery and Redis worker queues, log text chunks are converted into multi-dimensional vectors stored within Qdrant, allowing immediate conversational diagnostics over actual system architecture telemetry.
-</details>
-
-<details>
-  <summary><b>🌾 Machine Learning Crop Health & Plant Disease Monitor</b></summary>
-  <br>
-
-  ### Description
-  Conducted foundational research and engineered an end-to-end analytical application leverage machine learning classifiers to accurately diagnose crop specific health indicators and identify regional botanical diseases.
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib |
-  | **Scale** | Large-scale plant visual dataset optimization |
-  | **Performance**| Fine-tuned model architectures optimized for rapid matrix operations and high precision scores |
-  | **Security** | Clean standalone local research data streams |
-  | **Impact** | Achieved accurate botanical classification frameworks demonstrating real-world agricultural tech potential |
-  | **Repository** | [github.com/kierabiad/crop-health-ml](https://github.com/kierabiad) |
-
-  ### Professional Explanation
-  Developed as a computer science capstone initiative, this project leveraged deep learning and classic statistical models to handle matrix configurations on input image buffers. The codebase streamlines data cleaning pipelines via Pandas and utilizes visual profiling libraries to output concrete statistical validation arrays.
-</details>
-
----
-
-<!-- 6. EXPERIENCE SECTION -->
-## 💼 Professional Experience
-
-### Junior Software Engineer (Independent Contractor) | **Mind You**
-*May 2025 – June 2026* | *BGC, Taguig, PH*
-* Engineered and successfully delivered targeted enterprise web software solutions under strict timeline constraints and project milestone guidelines.
-* Collaborated continuously inside cross-functional engineering teams, presenting clean codebase progression updates and contributing heavily to dynamic structural reviews.
-* Refactored existing modules to match production-grade standards, prioritizing readable documentation guidelines and development best practices.
-* Rapidly evaluated, integrated, and deployed cutting-edge modern software frameworks to accelerate core application features.
-`JavaScript` `Django` `React` `Docker` `REST APIs` `Software Engineering`
-
-### Developer Intern | **Mind You**
-*February 2026 – May 2026* | *BGC, Taguig, PH*
-* Architected a specialized data migration framework (`slack-chat-migrator`) ensuring zero data loss during high-volume enterprise workspace data transitions.
-* Drafted clean database migrations, optimized API endpoint integrations, and maintained complex codebase modules via Django.
-* Actively participated in daily Agile Scrum ceremonies, sprint plannings, and interactive codebase engineering sessions.
-* Configured isolated microservices using Docker containers to maintain perfect symmetry between local testing and remote host staging.
-`Python` `Django` `Docker` `Data Migration` `Agile Scrum` `Systems Architecture`
-
-### IT Infrastructure Security Intern | **Malayan Insurance Co., Inc.**
-*May 2024 – August 2024* | *Binondo, Manila, PH*
-* Hardened internal network surface perimeters by implementing rigorous identity access management controls and corporate cybersecurity baselines.
-* Managed Active Directory administration domains, configured remote host parameters, and serviced critical cross-department infrastructure requirements.
-* Oversaw enterprise Microsoft Licensing structures and validated unified system configuration matrices across distributed local networks.
-`Active Directory` `Cybersecurity` `Network Administration` `Infrastructure Security` `Enterprise Systems`
-
----
-
-<!-- 7. ACHIEVEMENTS SECTION -->
-## 🏆 Key Achievements
-
-<p align="center">
-</p>
-
-| Recognition | Details |
-| :--- | :--- |
-| **Academic Distinction** | Graduated with a high Cumulative GPA of 1.77 from the Technological Institute of the Philippines Manila, majoring in Computer Science. |
-| **Enterprise Migrator** | Successfully engineered a standalone workspace asset tool that completely automated structural communication data transfers safely into modern corporate environments. |
-| **AI Innovation Lead** | Pioneered asynchronous Python/Django vector ingestion modules to automate log processing pipelines for accelerated engineering diagnostics. |
-
----
-
 <!-- 8. CERTIFICATIONS SECTION -->
 ## 📜 Certifications & Credentials
 
@@ -245,29 +122,11 @@ An ambitious and results-driven **Software Engineer** and **Full Stack Developer
 
 ---
 
-<!-- 11. GITHUB TROPHIES SECTION -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kierabiad&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <!-- 12. CONTRIBUTION ACTIVITY SECTION -->
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kierabiad&theme=react-dark&bg_color=0d1117&color=a970ff&line=8a2be2&point=ffffff&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- 13. CONTRIBUTION SNAKE SECTION -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kierabiad/kierabiad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
