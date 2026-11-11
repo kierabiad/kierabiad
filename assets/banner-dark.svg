@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kier Daryl Abiad</title>
+  <desc id="desc">Software and AI engineer. Backend, full-stack, and AI.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2a2a2a"/>
+    </pattern>
+    <radialGradient id="glow" cx="82%" cy="0%" r="75%">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" fill="none" stroke="#262626"/>
+
+  <circle cx="68" cy="58" r="4" fill="#f4f4f4"/>
+  <text x="86" y="63" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8a8a8a">OPEN TO OPPORTUNITIES</text>
+
+  <text x="64" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="92" letter-spacing="-2" fill="#f4f4f4">Kier Daryl Abiad</text>
+  <text x="66" y="224" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" fill="#a3a3a3">Software &amp; AI engineer.</text>
+  <text x="66" y="266" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8a8a8a">BACKEND  /  FULL-STACK  /  AI</text>
+</svg>
